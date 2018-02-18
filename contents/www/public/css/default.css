@@ -42,6 +42,7 @@ h2 {
 	padding-left: 32px;
 	background-image: url("/favicon.ico");
 	background-repeat: no-repeat;
+	background-size: 16px;
 }
 ul li , ol li{
 	margin-bottom: 8px;

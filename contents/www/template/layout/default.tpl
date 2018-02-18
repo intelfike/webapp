@@ -2,14 +2,14 @@
 <html lang="ja">
 <head>
 	<meta charset="UTF-8">
-	<title>{{ .Title }} | isear解説</title>
+	<title>{{ .Title }} | intelfikeのHP</title>
 	<link rel="stylesheet" href="/css/default.css?_={{ .Rand }}">
 </head>
 <body>
 
 <header>
 	<a href="/" class="normal" style="padding:10px;">
-		<img src="/data/image/isear_document_title.png" height="40" alt="isear">
+		<h1>intelfike</h1>
 	</a>
 </header>
 
@@ -36,8 +36,7 @@
 		{{ end }}
 			</ul>
 	{{ end }}
-{{ end }}
-		</ul>
+{{ end }}		</ul>
 	</nav>
 	<article>
 		<h2>
