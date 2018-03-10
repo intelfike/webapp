@@ -57,3 +57,10 @@ h3 {
 	border-bottom: 1px solid black;
 	padding: 2px;
 }
+h4 {
+	margin-top: 32px;
+	margin-bottom: 8px;
+}
+p{
+	margin: 8px;
+}
