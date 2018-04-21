@@ -64,3 +64,15 @@ h4 {
 p{
 	margin: 8px;
 }
+
+table{
+	background-color: #fed;
+}
+
+th {
+	background-color: #fdb;
+}
+
+td, th {
+	padding: 4px;
+}
